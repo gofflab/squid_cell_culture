@@ -10,28 +10,28 @@ All formulations from Kim et al. (2025) STAR Protocols. Verify osmolality (targe
 
 ### 1.1 Molluscan Balanced Salt Solution (MBSS)
 
-| Reagent | Concentration (w/v) | Amount (1 L) | Supplier | Catalog # |
-|---|---|---|---|---|
-| NaCl | 26.0 mg/mL | 26.0 g | Fisher Scientific | S671-500 |
-| KCl | 1.08 mg/mL | 1.08 g | Sigma-Aldrich | P9541-1KG |
-| MgCl2.6H2O | 4.70 mg/mL | 4.70 g | Sigma-Aldrich | M2670-500G |
-| MgSO4.7H2O | 6.52 mg/mL | 6.52 g | Sigma-Aldrich | M2773-500G |
-| NaHCO3 | 0.30 mg/mL | 300 mg | Sigma-Aldrich | S5761-1KG |
-| NaH2PO4 (anhydrous) | 0.0461 mg/mL | 46.1 mg | Sigma-Aldrich | S0751 |
-| CaCl2 (anhydrous) | 1.12 mg/mL | 1.12 g | Sigma-Aldrich | C1016 |
-| D-(+)-Glucose | 0.30 mg/mL | 300 mg | MilliporeSigma | G7021-100G |
+| Reagent | FW (g/mol) | Concentration (w/v) | Amount (1 L) | Supplier | Catalog # |
+|---|---|---|---|---|---|
+| NaCl | 58.44 | 26.0 mg/mL | 26.0 g | Fisher Scientific | S671-500 |
+| KCl | 74.55 | 1.08 mg/mL | 1.08 g | Sigma-Aldrich | P9541-1KG |
+| MgCl2.6H2O | 203.30 | 4.70 mg/mL | 4.70 g | Sigma-Aldrich | M2670-500G |
+| MgSO4.7H2O | 246.47 | 6.52 mg/mL | 6.52 g | Sigma-Aldrich | M2773-500G |
+| NaHCO3 | 84.01 | 0.30 mg/mL | 300 mg | Sigma-Aldrich | S5761-1KG |
+| NaH2PO4 (anhydrous) | 119.98 | 0.0461 mg/mL | 46.1 mg | Sigma-Aldrich | S0751 |
+| CaCl2 (anhydrous) | 110.98 | 1.12 mg/mL | 1.12 g | Sigma-Aldrich | C1016 |
+| D-(+)-Glucose | 180.16 | 0.30 mg/mL | 300 mg | MilliporeSigma | G7021-100G |
 
 Dissolve in 1L dH2O. Store 21-25C, 6-month shelf life.
 
 ### 1.2 Molluscan Calcium/Magnesium Free Solution (MCMFS)
 
-| Reagent | Concentration (w/v) | Amount (1 L) | Supplier | Catalog # |
-|---|---|---|---|---|
-| NaCl | 26.0 mg/mL | 26.0 g | Fisher Scientific | S671-500 |
-| KCl | 1.08 mg/mL | 1.08 g | Sigma-Aldrich | P9541-1KG |
-| NaHCO3 | 0.30 mg/mL | 300 mg | Sigma-Aldrich | S5761-1KG |
-| NaH2PO4 (anhydrous) | 0.0461 mg/mL | 46.1 mg | Sigma-Aldrich | S0751 |
-| D-(+)-Glucose | 0.30 mg/mL | 300 mg | MilliporeSigma | G7021-100G |
+| Reagent | FW (g/mol) | Concentration (w/v) | Amount (1 L) | Supplier | Catalog # |
+|---|---|---|---|---|---|
+| NaCl | 58.44 | 26.0 mg/mL | 26.0 g | Fisher Scientific | S671-500 |
+| KCl | 74.55 | 1.08 mg/mL | 1.08 g | Sigma-Aldrich | P9541-1KG |
+| NaHCO3 | 84.01 | 0.30 mg/mL | 300 mg | Sigma-Aldrich | S5761-1KG |
+| NaH2PO4 (anhydrous) | 119.98 | 0.0461 mg/mL | 46.1 mg | Sigma-Aldrich | S0751 |
+| D-(+)-Glucose | 180.16 | 0.30 mg/mL | 300 mg | MilliporeSigma | G7021-100G |
 
 Dissolve in 1L dH2O. Store 21-25C, 6-month shelf life.
 
@@ -46,16 +46,16 @@ Make fresh 50 mL aliquots. Filter 0.20 um. Store 4C, 1-month shelf life. Warm to
 
 ### 1.4 Squid Growth Media A (Stock)
 
-| Reagent | Concentration (w/v) | Amount (1 L) | Supplier | Catalog # |
-|---|---|---|---|---|
-| NaCl | 19.67 mg/mL | 19.67 g | Fisher Scientific | S671-500 |
-| KCl | 0.81 mg/mL | 810 mg | Sigma-Aldrich | P9541-1KG |
-| MgCl2.6H2O | 3.53 mg/mL | 3.53 g | Sigma-Aldrich | M2670-500G |
-| MgSO4.7H2O | 4.89 mg/mL | 4.89 g | Sigma-Aldrich | M2773-500G |
-| NaHCO3 | 0.23 mg/mL | 230 mg | Sigma-Aldrich | S5761-1KG |
-| NaH2PO4 (anhydrous) | 0.0338 mg/mL | 33.8 mg | Sigma-Aldrich | S0751 |
-| CaCl2 (anhydrous) | 0.838 mg/mL | 838 mg | Sigma-Aldrich | C1016 |
-| D-(+)-Glucose | 0.23 mg/mL | 230 mg | MilliporeSigma | G7021-100G |
+| Reagent | FW (g/mol) | Concentration (w/v) | Amount (1 L) | Supplier | Catalog # |
+|---|---|---|---|---|---|
+| NaCl | 58.44 | 19.67 mg/mL | 19.67 g | Fisher Scientific | S671-500 |
+| KCl | 74.55 | 0.81 mg/mL | 810 mg | Sigma-Aldrich | P9541-1KG |
+| MgCl2.6H2O | 203.30 | 3.53 mg/mL | 3.53 g | Sigma-Aldrich | M2670-500G |
+| MgSO4.7H2O | 246.47 | 4.89 mg/mL | 4.89 g | Sigma-Aldrich | M2773-500G |
+| NaHCO3 | 84.01 | 0.23 mg/mL | 230 mg | Sigma-Aldrich | S5761-1KG |
+| NaH2PO4 (anhydrous) | 119.98 | 0.0338 mg/mL | 33.8 mg | Sigma-Aldrich | S0751 |
+| CaCl2 (anhydrous) | 110.98 | 0.838 mg/mL | 838 mg | Sigma-Aldrich | C1016 |
+| D-(+)-Glucose | 180.16 | 0.23 mg/mL | 230 mg | MilliporeSigma | G7021-100G |
 
 Dissolve in 1L Leibovitz's L-15 medium (Thermo Fisher, 11415064). No antibiotics, no serum. Store 4C, 1-month shelf life.
 
@@ -198,25 +198,25 @@ No immunofluorescence-based conclusion about cell identity may be drawn from an 
 
 ### Extracellular Recording Solution (Marine Invertebrate)
 
-| Reagent | Concentration | Amount (100 mL) |
-|---|---|---|
-| NaCl | 420 mM | 2.45 g |
-| KCl | 10 mM | 74.6 mg |
-| CaCl2 (anhydrous) | 10 mM | 111 mg |
-| MgCl2·6H2O | 50 mM | 1.02 g |
-| HEPES (free acid) | 10 mM | 238 mg |
+| Reagent | FW (g/mol) | Concentration | Amount (100 mL) |
+|---|---|---|---|
+| NaCl | 58.44 | 420 mM | 2.45 g |
+| KCl | 74.55 | 10 mM | 74.6 mg |
+| CaCl2 (anhydrous) | 110.98 | 10 mM | 111 mg |
+| MgCl2·6H2O | 203.30 | 50 mM | 1.02 g |
+| HEPES (free acid) | 238.30 | 10 mM | 238 mg |
 
 pH 7.8 (NaOH). Osmolality ~950 mOsm/kg. Filter sterilize.
 
 ### Intracellular Recording Solution
 
-| Reagent | Concentration | Amount (10 mL) |
-|---|---|---|
-| K-gluconate | 120 mM | 281 mg |
-| KCl | 20 mM | 14.9 mg |
-| MgCl2 | 2 mM | 20 µL of 1 M MgCl2 stock |
-| EGTA | 1 mM | 3.8 mg |
-| HEPES (free acid) | 10 mM | 23.8 mg |
+| Reagent | FW (g/mol) | Concentration | Amount (10 mL) |
+|---|---|---|---|
+| K-gluconate | 234.25 | 120 mM | 281 mg |
+| KCl | 74.55 | 20 mM | 14.9 mg |
+| MgCl2 (anhydrous) | 95.21 | 2 mM | 20 µL of 1 M MgCl2 stock |
+| EGTA | 380.35 | 1 mM | 3.8 mg |
+| HEPES (free acid) | 238.30 | 10 mM | 23.8 mg |
 
 pH 7.2 (KOH). Osmolality ~280 mOsm/kg.
 
