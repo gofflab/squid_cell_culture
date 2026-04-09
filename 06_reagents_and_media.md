@@ -18,7 +18,7 @@ All formulations from Kim et al. (2025) STAR Protocols. Verify osmolality (targe
 | MgSO4.7H2O | 6.52 mg/mL | 6.52 g | Sigma-Aldrich | M2773-500G |
 | NaHCO3 | 0.30 mg/mL | 300 mg | Sigma-Aldrich | S5761-1KG |
 | NaH2PO4.2H2O | 0.06 mg/mL | 60 mg | MilliporeSigma | 71500-250G |
-| CaCl2.2H2O | 1.48 mg/mL | 1.48 g | Sigma-Aldrich | C5080-1KG |
+| CaCl2 (anhydrous) | 1.12 mg/mL | 1.12 g | Sigma-Aldrich | C1016 |
 | D-(+)-Glucose | 0.30 mg/mL | 300 mg | MilliporeSigma | G7021-100G |
 
 Dissolve in 1L dH2O. Store 21-25C, 6-month shelf life.
@@ -54,7 +54,7 @@ Make fresh 50 mL aliquots. Filter 0.20 um. Store 4C, 1-month shelf life. Warm to
 | MgSO4.7H2O | 4.89 mg/mL | 4.89 g | Sigma-Aldrich | M2773-500G |
 | NaHCO3 | 0.23 mg/mL | 230 mg | Sigma-Aldrich | S5761-1KG |
 | NaH2PO4.2H2O | 0.044 mg/mL | 44 mg | MilliporeSigma | 71500-250G |
-| CaCl2.2H2O | 1.11 mg/mL | 1.11 g | Sigma-Aldrich | C5080-1KG |
+| CaCl2 (anhydrous) | 0.838 mg/mL | 838 mg | Sigma-Aldrich | C1016 |
 | D-(+)-Glucose | 0.23 mg/mL | 230 mg | MilliporeSigma | G7021-100G |
 
 Dissolve in 1L Leibovitz's L-15 medium (Thermo Fisher, 11415064). No antibiotics, no serum. Store 4C, 1-month shelf life.
