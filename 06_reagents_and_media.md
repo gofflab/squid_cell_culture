@@ -10,84 +10,90 @@ All formulations from Kim et al. (2025) STAR Protocols. Verify osmolality (targe
 
 ### 1.1 Molluscan Balanced Salt Solution (MBSS)
 
-| Reagent | Concentration (w/v) | Supplier | Catalog # |
-|---|---|---|---|
-| NaCl | 26.0 mg/mL | Fisher Scientific | S671-500 |
-| KCl | 1.08 mg/mL | Sigma-Aldrich | P9541-1KG |
-| MgCl2.6H2O | 4.70 mg/mL | Sigma-Aldrich | M2670-500G |
-| MgSO4.7H2O | 6.52 mg/mL | Sigma-Aldrich | M2773-500G |
-| NaHCO3 | 0.30 mg/mL | Sigma-Aldrich | S5761-1KG |
-| NaH2PO4.2H2O | 0.06 mg/mL | MilliporeSigma | 71500-250G |
-| CaCl2.2H2O | 1.48 mg/mL | Sigma-Aldrich | C5080-1KG |
-| D-(+)-Glucose | 0.30 mg/mL | MilliporeSigma | G7021-100G |
+| Reagent | FW (g/mol) | Concentration (w/v) | Amount (1 L) | Supplier | Catalog # |
+|---|---|---|---|---|---|
+| NaCl | 58.44 | 26.0 mg/mL | 26.0 g | Fisher Scientific | S671-500 |
+| KCl | 74.55 | 1.08 mg/mL | 1.08 g | Sigma-Aldrich | P9541-1KG |
+| MgCl2.6H2O | 203.30 | 4.70 mg/mL | 4.70 g | Sigma-Aldrich | M2670-500G |
+| MgSO4.7H2O | 246.47 | 6.52 mg/mL | 6.52 g | Sigma-Aldrich | M2773-500G |
+| NaHCO3 | 84.01 | 0.30 mg/mL | 300 mg | Sigma-Aldrich | S5761-1KG |
+| NaH2PO4 (anhydrous) | 119.98 | 0.0461 mg/mL | 46.1 mg | Sigma-Aldrich | S0751 |
+| CaCl2 (anhydrous) | 110.98 | 1.12 mg/mL | 1.12 g | Sigma-Aldrich | C1016 |
+| D-(+)-Glucose | 180.16 | 0.30 mg/mL | 300 mg | MilliporeSigma | G7021-100G |
 
 Dissolve in 1L dH2O. Store 21-25C, 6-month shelf life.
 
 ### 1.2 Molluscan Calcium/Magnesium Free Solution (MCMFS)
 
-| Reagent | Concentration (w/v) | Supplier | Catalog # |
-|---|---|---|---|
-| NaCl | 26.0 mg/mL | Fisher Scientific | S671-500 |
-| KCl | 1.08 mg/mL | Sigma-Aldrich | P9541-1KG |
-| NaHCO3 | 0.30 mg/mL | Sigma-Aldrich | S5761-1KG |
-| NaH2PO4.2H2O | 0.06 mg/mL | MilliporeSigma | 71500-250G |
-| D-(+)-Glucose | 0.30 mg/mL | MilliporeSigma | G7021-100G |
+| Reagent | FW (g/mol) | Concentration (w/v) | Amount (1 L) | Supplier | Catalog # |
+|---|---|---|---|---|---|
+| NaCl | 58.44 | 26.0 mg/mL | 26.0 g | Fisher Scientific | S671-500 |
+| KCl | 74.55 | 1.08 mg/mL | 1.08 g | Sigma-Aldrich | P9541-1KG |
+| NaHCO3 | 84.01 | 0.30 mg/mL | 300 mg | Sigma-Aldrich | S5761-1KG |
+| NaH2PO4 (anhydrous) | 119.98 | 0.0461 mg/mL | 46.1 mg | Sigma-Aldrich | S0751 |
+| D-(+)-Glucose | 180.16 | 0.30 mg/mL | 300 mg | MilliporeSigma | G7021-100G |
 
 Dissolve in 1L dH2O. Store 21-25C, 6-month shelf life.
 
 ### 1.3 Trypsin-EDTA Solutions
 
-| Solution | Composition | Use |
-|---|---|---|
-| Solution A (dissociation) | 0.25% (w/v) trypsin (Thermo Fisher, 27250018) + 0.02% (w/v) EDTA (Sigma, 324503) in MCMFS | Tissue dissociation |
-| Solution B (passaging) | 0.05% (w/v) trypsin + 0.02% (w/v) EDTA in MCMFS | Lifting adherent cells |
+| Solution | Composition | Preparation (50 mL) | Use |
+|---|---|---|---|
+| Solution A (dissociation) | 0.25% (w/v) trypsin (Thermo Fisher, 27250018) + 0.02% (w/v) EDTA (Sigma, 324503) in MCMFS | 125 mg trypsin + 10 mg EDTA dissolved in MCMFS to 50 mL; or use 50 mL of commercial 0.25% trypsin stock (27250018) as base + 10 mg EDTA | Tissue dissociation |
+| Solution B (passaging) | 0.05% (w/v) trypsin + 0.02% (w/v) EDTA in MCMFS | 10 mL of commercial 0.25% trypsin stock (27250018) + 10 mg EDTA + 40 mL MCMFS | Lifting adherent cells |
 
 Make fresh 50 mL aliquots. Filter 0.20 um. Store 4C, 1-month shelf life. Warm to 22C before use.
 
 ### 1.4 Squid Growth Media A (Stock)
 
-| Reagent | Concentration (w/v) | Supplier | Catalog # |
-|---|---|---|---|
-| NaCl | 19.67 mg/mL | Fisher Scientific | S671-500 |
-| KCl | 0.81 mg/mL | Sigma-Aldrich | P9541-1KG |
-| MgCl2.6H2O | 3.53 mg/mL | Sigma-Aldrich | M2670-500G |
-| MgSO4.7H2O | 4.89 mg/mL | Sigma-Aldrich | M2773-500G |
-| NaHCO3 | 0.23 mg/mL | Sigma-Aldrich | S5761-1KG |
-| NaH2PO4.2H2O | 0.044 mg/mL | MilliporeSigma | 71500-250G |
-| CaCl2.2H2O | 1.11 mg/mL | Sigma-Aldrich | C5080-1KG |
-| D-(+)-Glucose | 0.23 mg/mL | MilliporeSigma | G7021-100G |
+| Reagent | FW (g/mol) | Concentration (w/v) | Amount (1 L) | Supplier | Catalog # |
+|---|---|---|---|---|---|
+| NaCl | 58.44 | 19.67 mg/mL | 19.67 g | Fisher Scientific | S671-500 |
+| KCl | 74.55 | 0.81 mg/mL | 810 mg | Sigma-Aldrich | P9541-1KG |
+| MgCl2.6H2O | 203.30 | 3.53 mg/mL | 3.53 g | Sigma-Aldrich | M2670-500G |
+| MgSO4.7H2O | 246.47 | 4.89 mg/mL | 4.89 g | Sigma-Aldrich | M2773-500G |
+| NaHCO3 | 84.01 | 0.23 mg/mL | 230 mg | Sigma-Aldrich | S5761-1KG |
+| NaH2PO4 (anhydrous) | 119.98 | 0.0338 mg/mL | 33.8 mg | Sigma-Aldrich | S0751 |
+| CaCl2 (anhydrous) | 110.98 | 0.838 mg/mL | 838 mg | Sigma-Aldrich | C1016 |
+| D-(+)-Glucose | 180.16 | 0.23 mg/mL | 230 mg | MilliporeSigma | G7021-100G |
 
 Dissolve in 1L Leibovitz's L-15 medium (Thermo Fisher, 11415064). No antibiotics, no serum. Store 4C, 1-month shelf life.
 
 ### 1.5 Squid Growth Media B (Trypsin Neutralization)
 
-- Pen/Strep: 50 U/mL penicillin + 50 ug/mL streptomycin
-- Ciprofloxacin: 10 ug/mL
-- Amphotericin B: 2.5 ug/mL
-- L-15 media: 8% (v/v)
-- FBS: 10% (v/v) (R&D Systems, S11150H)
-- Squid Growth Media A: 81.5% (v/v)
+| Component | Working concentration | Amount (50 mL) | Stock/Source |
+|---|---|---|---|
+| Penicillin/Streptomycin | 50 U/mL + 50 µg/mL | 250 µL | Gibco 15140122 (10,000 U/mL + 10,000 µg/mL stock) |
+| Ciprofloxacin | 10 µg/mL | 500 µL | 1 mg/mL stock (see Section 2.1) |
+| Amphotericin B | 2.5 µg/mL | 500 µL | Gibco Fungizone 15290018 (250 µg/mL stock) |
+| L-15 medium | 8% (v/v) | 4.0 mL | Thermo Fisher 11415064 |
+| FBS | 10% (v/v) | 5.0 mL | R&D Systems S11150H |
+| Squid Growth Media A | to volume | ~39.75 mL | See Section 1.4 |
 
 Make fresh 50 mL aliquots. Filter 0.20 um. Store 4C, 1-month shelf life.
 
 ### 1.6 Squid Growth Media C (Wash/Serum-Free)
 
-- Pen/Strep: 50 U/mL + 50 ug/mL
-- Ciprofloxacin: 10 ug/mL
-- Amphotericin B: 2.5 ug/mL
-- L-15 media: 8% (v/v)
-- Squid Growth Media A: 91.5% (v/v)
+| Component | Working concentration | Amount (50 mL) | Stock/Source |
+|---|---|---|---|
+| Penicillin/Streptomycin | 50 U/mL + 50 µg/mL | 250 µL | Gibco 15140122 (10,000 U/mL + 10,000 µg/mL stock) |
+| Ciprofloxacin | 10 µg/mL | 500 µL | 1 mg/mL stock (see Section 2.1) |
+| Amphotericin B | 2.5 µg/mL | 500 µL | Gibco Fungizone 15290018 (250 µg/mL stock) |
+| L-15 medium | 8% (v/v) | 4.0 mL | Thermo Fisher 11415064 |
+| Squid Growth Media A | to volume | ~44.75 mL | See Section 1.4 |
 
 ### 1.7 Squid Growth Media D (Standard Growth)
 
-- Pen/Strep: 50 U/mL + 50 ug/mL
-- Ciprofloxacin: 10 ug/mL
-- Amphotericin B: 2.5 ug/mL
-- L-15 media: 8% (v/v)
-- ITS-G 1x (Thermo Fisher, 41400045): 10 mg/L insulin, 5.5 mg/L transferrin, 0.0067 mg/L Na selenite
-- FGF-basic: 10 ng/mL (PeproTech, 100-18B)
-- EGF: 100 ng/mL (PeproTech, AF-100-15)
-- Squid Growth Media A: 91.7% (v/v)
+| Component | Working concentration | Amount (50 mL) | Stock/Source |
+|---|---|---|---|
+| Penicillin/Streptomycin | 50 U/mL + 50 µg/mL | 250 µL | Gibco 15140122 (10,000 U/mL + 10,000 µg/mL stock) |
+| Ciprofloxacin | 10 µg/mL | 500 µL | 1 mg/mL stock (see Section 2.1) |
+| Amphotericin B | 2.5 µg/mL | 500 µL | Gibco Fungizone 15290018 (250 µg/mL stock) |
+| ITS-G | 1x (10 mg/L insulin, 5.5 mg/L transferrin, 0.0067 mg/L Na selenite) | 500 µL | Thermo Fisher 41400045 (100x liquid stock) |
+| FGF-basic | 10 ng/mL | 50 µL | PeproTech 100-18B (prepare 10 µg/mL working aliquots in PBS + 0.1% BSA; store at -80C) |
+| EGF | 100 ng/mL | 50 µL | PeproTech AF-100-15 (100 µg/mL stock in PBS + 0.1% BSA) |
+| L-15 medium | 8% (v/v) | 4.0 mL | Thermo Fisher 11415064 |
+| Squid Growth Media A | to volume | ~44.15 mL | See Section 1.4 |
 
 Make fresh 50 mL aliquots. Filter 0.20 um. Use within 48 hours (growth factor stability).
 
@@ -108,12 +114,15 @@ Make fresh 50 mL aliquots. Filter 0.20 um. Use within 48 hours (growth factor st
 
 ### 2.2 Enhanced DBSS (Tissue Disinfection)
 
-For the 30-minute tissue disinfection step:
-- MBSS base
-- Penicillin/Streptomycin: 100 U/mL + 100 ug/mL (2x standard)
-- Gentamicin: 50 ug/mL (Thermo Fisher, 15710064)
-- Ciprofloxacin: 10 ug/mL
-- Amphotericin B: 2.5 ug/mL
+For the 30-minute tissue disinfection step. Prepare fresh as needed; 50 mL is sufficient for one dissection session.
+
+| Component | Working concentration | Amount (50 mL) | Stock/Source |
+|---|---|---|---|
+| Penicillin/Streptomycin | 100 U/mL + 100 µg/mL (2x standard) | 500 µL | Gibco 15140122 (10,000 U/mL + 10,000 µg/mL stock) |
+| Gentamicin | 50 µg/mL | 250 µL | Thermo Fisher 15710064 (10 mg/mL stock) |
+| Ciprofloxacin | 10 µg/mL | 500 µL | 1 mg/mL stock (see Section 2.1) |
+| Amphotericin B | 2.5 µg/mL | 500 µL | Gibco Fungizone 15290018 (250 µg/mL stock) |
+| MBSS | base | ~48.25 mL (to 50 mL) | See Section 1.1 |
 
 ### 2.3 Pre-Dissociation Wash
 
@@ -189,25 +198,25 @@ No immunofluorescence-based conclusion about cell identity may be drawn from an 
 
 ### Extracellular Recording Solution (Marine Invertebrate)
 
-| Reagent | Concentration |
-|---|---|
-| NaCl | 420 mM |
-| KCl | 10 mM |
-| CaCl2 | 10 mM |
-| MgCl2 | 50 mM |
-| HEPES | 10 mM |
+| Reagent | FW (g/mol) | Concentration | Amount (100 mL) |
+|---|---|---|---|
+| NaCl | 58.44 | 420 mM | 2.45 g |
+| KCl | 74.55 | 10 mM | 74.6 mg |
+| CaCl2 (anhydrous) | 110.98 | 10 mM | 111 mg |
+| MgCl2·6H2O | 203.30 | 50 mM | 1.02 g |
+| HEPES (free acid) | 238.30 | 10 mM | 238 mg |
 
 pH 7.8 (NaOH). Osmolality ~950 mOsm/kg. Filter sterilize.
 
 ### Intracellular Recording Solution
 
-| Reagent | Concentration |
-|---|---|
-| K-gluconate | 120 mM |
-| KCl | 20 mM |
-| MgCl2 | 2 mM |
-| EGTA | 1 mM |
-| HEPES | 10 mM |
+| Reagent | FW (g/mol) | Concentration | Amount (10 mL) |
+|---|---|---|---|
+| K-gluconate | 234.25 | 120 mM | 281 mg |
+| KCl | 74.55 | 20 mM | 14.9 mg |
+| MgCl2 (anhydrous) | 95.21 | 2 mM | 20 µL of 1 M MgCl2 stock |
+| EGTA | 380.35 | 1 mM | 3.8 mg |
+| HEPES (free acid) | 238.30 | 10 mM | 23.8 mg |
 
 pH 7.2 (KOH). Osmolality ~280 mOsm/kg.
 
