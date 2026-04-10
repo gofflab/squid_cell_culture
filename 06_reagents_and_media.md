@@ -8,32 +8,50 @@
 
 All formulations from Kim et al. (2025) STAR Protocols. Verify osmolality (target 950 +/- 20 mOsm/kg) and pH (7.4) for every batch. Filter all solutions through 0.20 um Nalgene Rapid-Flow units (Thermo Fisher, 0974103).
 
+### 1.0 Stock Solutions for Weighing-Sensitive Components
+
+Several components appear at sub-100 mg quantities per 1 L batch, making accurate direct weighing impractical. The stocks below replace those weighing steps with precise volumetric additions. Prepare each stock as a 100 mL batch; aliquot 10 mL into labelled 15 mL tubes and store as specified. All stocks are filtered through 0.20 µm Nalgene Rapid-Flow units before storage.
+
+| Stock | FW (g/mol) | Concentration | Amount (100 mL) | Sterilization | Storage |
+|---|---|---|---|---|---|
+| KCl | 74.55 | 1 M | 7.455 g | Autoclave 121°C 15 min, or 0.20 µm filter | RT, 1 year |
+| NaHCO3 | 84.01 | 1 M | 8.401 g | 0.20 µm filter only — do not autoclave | 4°C, 1 month |
+| NaH2PO4 (anhydrous) | 119.98 | 100 mM | 1.200 g | 0.20 µm filter | 4°C, 6 months |
+| CaCl2 (anhydrous) | 110.98 | 1 M | 11.10 g | Autoclave 121°C 15 min, or 0.20 µm filter | RT, 1 year |
+| D-(+)-Glucose | 180.16 | 1 M | 18.02 g | 0.20 µm filter | 4°C, 3 months |
+
+**Preparation (all stocks)**: Dissolve in ~80 mL dH2O with stirring; bring to 100 mL with dH2O; sterilize as specified.
+
+**NaHCO3 note**: Autoclaving drives off CO2 and converts bicarbonate to carbonate, making the solution strongly alkaline. Make fresh monthly. Discard if precipitate forms or pH exceeds 8.5.
+
+---
+
 ### 1.1 Molluscan Balanced Salt Solution (MBSS)
 
-| Reagent | FW (g/mol) | Concentration (w/v) | Amount (1 L) | Supplier | Catalog # |
+| Reagent | FW (g/mol) | Final Conc. (mM) | Amount (1 L) | Supplier | Catalog # |
 |---|---|---|---|---|---|
-| NaCl | 58.44 | 26.0 mg/mL | 26.0 g | Fisher Scientific | S671-500 |
-| KCl | 74.55 | 1.08 mg/mL | 1.08 g | Sigma-Aldrich | P9541-1KG |
-| MgCl2.6H2O | 203.30 | 4.70 mg/mL | 4.70 g | Sigma-Aldrich | M2670-500G |
-| MgSO4.7H2O | 246.47 | 6.52 mg/mL | 6.52 g | Sigma-Aldrich | M2773-500G |
-| NaHCO3 | 84.01 | 0.30 mg/mL | 300 mg | Sigma-Aldrich | S5761-1KG |
-| NaH2PO4 (anhydrous) | 119.98 | 0.0461 mg/mL | 46.1 mg | Sigma-Aldrich | S0751 |
-| CaCl2 (anhydrous) | 110.98 | 1.12 mg/mL | 1.12 g | Sigma-Aldrich | C1016 |
-| D-(+)-Glucose | 180.16 | 0.30 mg/mL | 300 mg | MilliporeSigma | G7021-100G |
+| NaCl | 58.44 | 444.9 | 26.0 g | Fisher Scientific | S671-500 |
+| KCl | 74.55 | 14.49 | 14.49 mL of 1 M stock | Sigma-Aldrich | P9541-1KG |
+| MgCl2·6H2O | 203.30 | 23.12 | 4.70 g | Sigma-Aldrich | M2670-500G |
+| MgSO4·7H2O | 246.47 | 26.46 | 6.52 g | Sigma-Aldrich | M2773-500G |
+| NaHCO3 | 84.01 | 3.57 | 3.57 mL of 1 M stock | Sigma-Aldrich | S5761-1KG |
+| NaH2PO4 (anhydrous) | 119.98 | 0.384 | 3.84 mL of 100 mM stock | Sigma-Aldrich | S0751 |
+| CaCl2 (anhydrous) | 110.98 | 10.09 | 10.09 mL of 1 M stock | Sigma-Aldrich | C1016 |
+| D-(+)-Glucose | 180.16 | 1.67 | 1.67 mL of 1 M stock | MilliporeSigma | G7021-100G |
 
-Dissolve in 1L dH2O. Store 21-25C, 6-month shelf life.
+Dissolve NaCl, MgCl2·6H2O, and MgSO4·7H2O in ~850 mL dH2O. Add stock solutions. Bring to 1 L with dH2O. Store 21-25°C, 6-month shelf life.
 
 ### 1.2 Molluscan Calcium/Magnesium Free Solution (MCMFS)
 
-| Reagent | FW (g/mol) | Concentration (w/v) | Amount (1 L) | Supplier | Catalog # |
+| Reagent | FW (g/mol) | Final Conc. (mM) | Amount (1 L) | Supplier | Catalog # |
 |---|---|---|---|---|---|
-| NaCl | 58.44 | 26.0 mg/mL | 26.0 g | Fisher Scientific | S671-500 |
-| KCl | 74.55 | 1.08 mg/mL | 1.08 g | Sigma-Aldrich | P9541-1KG |
-| NaHCO3 | 84.01 | 0.30 mg/mL | 300 mg | Sigma-Aldrich | S5761-1KG |
-| NaH2PO4 (anhydrous) | 119.98 | 0.0461 mg/mL | 46.1 mg | Sigma-Aldrich | S0751 |
-| D-(+)-Glucose | 180.16 | 0.30 mg/mL | 300 mg | MilliporeSigma | G7021-100G |
+| NaCl | 58.44 | 444.9 | 26.0 g | Fisher Scientific | S671-500 |
+| KCl | 74.55 | 14.49 | 14.49 mL of 1 M stock | Sigma-Aldrich | P9541-1KG |
+| NaHCO3 | 84.01 | 3.57 | 3.57 mL of 1 M stock | Sigma-Aldrich | S5761-1KG |
+| NaH2PO4 (anhydrous) | 119.98 | 0.384 | 3.84 mL of 100 mM stock | Sigma-Aldrich | S0751 |
+| D-(+)-Glucose | 180.16 | 1.67 | 1.67 mL of 1 M stock | MilliporeSigma | G7021-100G |
 
-Dissolve in 1L dH2O. Store 21-25C, 6-month shelf life.
+Dissolve NaCl in ~950 mL dH2O. Add stock solutions. Bring to 1 L with dH2O. Store 21-25°C, 6-month shelf life.
 
 ### 1.3 Trypsin-EDTA Solutions
 
@@ -46,16 +64,16 @@ Make fresh 50 mL aliquots. Filter 0.20 um. Store 4C, 1-month shelf life. Warm to
 
 ### 1.4 Squid Growth Media A (Stock)
 
-| Reagent | FW (g/mol) | Concentration (w/v) | Amount (1 L) | Supplier | Catalog # |
+| Reagent | FW (g/mol) | Final Conc. (mM) | Amount (1 L) | Supplier | Catalog # |
 |---|---|---|---|---|---|
-| NaCl | 58.44 | 19.67 mg/mL | 19.67 g | Fisher Scientific | S671-500 |
-| KCl | 74.55 | 0.81 mg/mL | 810 mg | Sigma-Aldrich | P9541-1KG |
-| MgCl2.6H2O | 203.30 | 3.53 mg/mL | 3.53 g | Sigma-Aldrich | M2670-500G |
-| MgSO4.7H2O | 246.47 | 4.89 mg/mL | 4.89 g | Sigma-Aldrich | M2773-500G |
-| NaHCO3 | 84.01 | 0.23 mg/mL | 230 mg | Sigma-Aldrich | S5761-1KG |
-| NaH2PO4 (anhydrous) | 119.98 | 0.0338 mg/mL | 33.8 mg | Sigma-Aldrich | S0751 |
-| CaCl2 (anhydrous) | 110.98 | 0.838 mg/mL | 838 mg | Sigma-Aldrich | C1016 |
-| D-(+)-Glucose | 180.16 | 0.23 mg/mL | 230 mg | MilliporeSigma | G7021-100G |
+| NaCl | 58.44 | 336.6 | 19.67 g | Fisher Scientific | S671-500 |
+| KCl | 74.55 | 10.87 | 10.87 mL of 1 M stock | Sigma-Aldrich | P9541-1KG |
+| MgCl2·6H2O | 203.30 | 17.36 | 3.53 g | Sigma-Aldrich | M2670-500G |
+| MgSO4·7H2O | 246.47 | 19.84 | 4.89 g | Sigma-Aldrich | M2773-500G |
+| NaHCO3 | 84.01 | 2.74 | 2.74 mL of 1 M stock | Sigma-Aldrich | S5761-1KG |
+| NaH2PO4 (anhydrous) | 119.98 | 0.282 | 2.82 mL of 100 mM stock | Sigma-Aldrich | S0751 |
+| CaCl2 (anhydrous) | 110.98 | 7.55 | 7.55 mL of 1 M stock | Sigma-Aldrich | C1016 |
+| D-(+)-Glucose | 180.16 | 1.28 | 1.28 mL of 1 M stock | MilliporeSigma | G7021-100G |
 
 Dissolve in 1L Leibovitz's L-15 medium (Thermo Fisher, 11415064). No antibiotics, no serum. Store 4C, 1-month shelf life.
 
@@ -198,25 +216,25 @@ No immunofluorescence-based conclusion about cell identity may be drawn from an 
 
 ### Extracellular Recording Solution (Marine Invertebrate)
 
-| Reagent | FW (g/mol) | Concentration | Amount (100 mL) |
+| Reagent | FW (g/mol) | Final Conc. (mM) | Amount (100 mL) |
 |---|---|---|---|
-| NaCl | 58.44 | 420 mM | 2.45 g |
-| KCl | 74.55 | 10 mM | 74.6 mg |
-| CaCl2 (anhydrous) | 110.98 | 10 mM | 111 mg |
-| MgCl2·6H2O | 203.30 | 50 mM | 1.02 g |
-| HEPES (free acid) | 238.30 | 10 mM | 238 mg |
+| NaCl | 58.44 | 420 | 2.45 g |
+| KCl | 74.55 | 10 | 1.00 mL of 1 M stock |
+| CaCl2 (anhydrous) | 110.98 | 10 | 1.00 mL of 1 M stock |
+| MgCl2·6H2O | 203.30 | 50 | 1.02 g |
+| HEPES (free acid) | 238.30 | 10 | 238 mg |
 
 pH 7.8 (NaOH). Osmolality ~950 mOsm/kg. Filter sterilize.
 
 ### Intracellular Recording Solution
 
-| Reagent | FW (g/mol) | Concentration | Amount (10 mL) |
+| Reagent | FW (g/mol) | Final Conc. (mM) | Amount (10 mL) |
 |---|---|---|---|
-| K-gluconate | 234.25 | 120 mM | 281 mg |
-| KCl | 74.55 | 20 mM | 14.9 mg |
-| MgCl2 (anhydrous) | 95.21 | 2 mM | 20 µL of 1 M MgCl2 stock |
-| EGTA | 380.35 | 1 mM | 3.8 mg |
-| HEPES (free acid) | 238.30 | 10 mM | 23.8 mg |
+| K-gluconate | 234.25 | 120 | 281 mg |
+| KCl | 74.55 | 20 | 200 µL of 1 M stock |
+| MgCl2 (anhydrous) | 95.21 | 2 | 20 µL of 1 M MgCl2 stock |
+| EGTA | 380.35 | 1 | 3.8 mg |
+| HEPES (free acid) | 238.30 | 10 | 23.8 mg |
 
 pH 7.2 (KOH). Osmolality ~280 mOsm/kg.
 
