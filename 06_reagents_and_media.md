@@ -35,8 +35,8 @@ Several components appear at sub-100 mg quantities per 1 L batch, making accurat
 | MgCl2·6H2O | 203.30 | 23.12 | 4.70 g | Sigma-Aldrich | M2670-500G |
 | MgSO4·7H2O | 246.47 | 26.46 | 6.52 g | Sigma-Aldrich | M2773-500G |
 | NaHCO3 | 84.01 | 3.57 | 3.57 mL of 1 M stock | Sigma-Aldrich | S5761-1KG |
-| NaH2PO4 (anhydrous) | 119.98 | 0.384 | 3.84 mL of 100 mM stock | Sigma-Aldrich | S0751 |
-| CaCl2 (anhydrous) | 110.98 | 10.09 | 10.09 mL of 1 M stock | Sigma-Aldrich | C1016 |
+| NaH2PO4 (anhydrous) | 119.98 | 0.385 | 3.85 mL of 100 mM stock | Sigma-Aldrich | S0751 |
+| CaCl2 (anhydrous) | 110.98 | 10.07 | 10.07 mL of 1 M stock | Sigma-Aldrich | C1016 |
 | D-(+)-Glucose | 180.16 | 1.67 | 1.67 mL of 1 M stock | MilliporeSigma | G7021-100G |
 
 Dissolve NaCl, MgCl2·6H2O, and MgSO4·7H2O in ~850 mL dH2O. Add stock solutions. Bring to 1 L with dH2O. Store 21-25°C, 6-month shelf life.
@@ -48,7 +48,7 @@ Dissolve NaCl, MgCl2·6H2O, and MgSO4·7H2O in ~850 mL dH2O. Add stock solutions
 | NaCl | 58.44 | 444.9 | 26.0 g | Fisher Scientific | S671-500 |
 | KCl | 74.55 | 14.49 | 14.49 mL of 1 M stock | Sigma-Aldrich | P9541-1KG |
 | NaHCO3 | 84.01 | 3.57 | 3.57 mL of 1 M stock | Sigma-Aldrich | S5761-1KG |
-| NaH2PO4 (anhydrous) | 119.98 | 0.384 | 3.84 mL of 100 mM stock | Sigma-Aldrich | S0751 |
+| NaH2PO4 (anhydrous) | 119.98 | 0.385 | 3.85 mL of 100 mM stock | Sigma-Aldrich | S0751 |
 | D-(+)-Glucose | 180.16 | 1.67 | 1.67 mL of 1 M stock | MilliporeSigma | G7021-100G |
 
 Dissolve NaCl in ~950 mL dH2O. Add stock solutions. Bring to 1 L with dH2O. Store 21-25°C, 6-month shelf life.
