@@ -40,13 +40,13 @@ Before dissection, wash the intact euthanized animal:
 
 ### 1.1.4 White Body Dissection
 
-The white body is a 4-lobed structure located between the eyes and optic lobes, surrounding the optic stalk. In hatchlings it is pale/whitish, soft, and glandular.
+The white body is a multi-lobed structure located between the eyes and optic lobes, surrounding the optic stalk. In hatchlings it is pale/whitish, soft, and glandular in appearance.
 
 **Procedure:**
 1. Pin animal on sylgard dish.
 2. Remove the eye by making an incision around the posterior aspect with fine scissors (Vanas Spring Scissors, Fine Science Tools, 15000-08).
 3. Identify the optic lobe (posterior to the eye).
-4. The white body is medial to the optic lobe. Using Dumostar-Biology Number 55 forceps (Fine Science Tools, 11295-51), carefully separate the white body from surrounding connective tissue.
+4. The white body is lateral to the optic lobe and medial to the eye. Using Dumostar-Biology Number 55 forceps (Fine Science Tools, 11295-51), carefully separate the white body from surrounding connective tissue.
 5. **Separate anterior from posterior white body.** The anterior territory (ventral-anterior) contributes to the supraesophageal brain via the anterior migratory stream. The posterior territory contributes to the optic lobe via the posterior stream. These are molecularly distinct and should be cultured separately.
 6. Place each tissue fragment into a separate well of a 24-well glass bottom plate (Cellvis, P24-1.5H-N) containing 500 uL DBSS (see 06_reagents_and_media.md, Section 2.2).
 7. Document each dissection with photographs.
