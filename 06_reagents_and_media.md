@@ -35,8 +35,8 @@ Several components appear at sub-100 mg quantities per 1 L batch, making accurat
 | MgCl2·6H2O | 203.30 | 23.12 | 4.70 g | Sigma-Aldrich | M2670-500G |
 | MgSO4·7H2O | 246.47 | 26.46 | 6.52 g | Sigma-Aldrich | M2773-500G |
 | NaHCO3 | 84.01 | 3.57 | 3.57 mL of 1 M stock | Sigma-Aldrich | S5761-1KG |
-| NaH2PO4 (anhydrous) | 119.98 | 0.384 | 3.84 mL of 100 mM stock | Sigma-Aldrich | S0751 |
-| CaCl2 (anhydrous) | 110.98 | 10.09 | 10.09 mL of 1 M stock | Sigma-Aldrich | C1016 |
+| NaH2PO4 (anhydrous) | 119.98 | 0.385 | 3.85 mL of 100 mM stock | Sigma-Aldrich | S0751 |
+| CaCl2 (anhydrous) | 110.98 | 10.07 | 10.07 mL of 1 M stock | Sigma-Aldrich | C1016 |
 | D-(+)-Glucose | 180.16 | 1.67 | 1.67 mL of 1 M stock | MilliporeSigma | G7021-100G |
 
 Dissolve NaCl, MgCl2·6H2O, and MgSO4·7H2O in ~850 mL dH2O. Add stock solutions. Bring to 1 L with dH2O. Store 21-25°C, 6-month shelf life.
@@ -48,7 +48,7 @@ Dissolve NaCl, MgCl2·6H2O, and MgSO4·7H2O in ~850 mL dH2O. Add stock solutions
 | NaCl | 58.44 | 444.9 | 26.0 g | Fisher Scientific | S671-500 |
 | KCl | 74.55 | 14.49 | 14.49 mL of 1 M stock | Sigma-Aldrich | P9541-1KG |
 | NaHCO3 | 84.01 | 3.57 | 3.57 mL of 1 M stock | Sigma-Aldrich | S5761-1KG |
-| NaH2PO4 (anhydrous) | 119.98 | 0.384 | 3.84 mL of 100 mM stock | Sigma-Aldrich | S0751 |
+| NaH2PO4 (anhydrous) | 119.98 | 0.385 | 3.85 mL of 100 mM stock | Sigma-Aldrich | S0751 |
 | D-(+)-Glucose | 180.16 | 1.67 | 1.67 mL of 1 M stock | MilliporeSigma | G7021-100G |
 
 Dissolve NaCl in ~950 mL dH2O. Add stock solutions. Bring to 1 L with dH2O. Store 21-25°C, 6-month shelf life.
@@ -82,11 +82,9 @@ Dissolve in 1L Leibovitz's L-15 medium (Thermo Fisher, 11415064). No antibiotics
 | Component | Working concentration | Amount (50 mL) | Stock/Source |
 |---|---|---|---|
 | Penicillin/Streptomycin | 50 U/mL + 50 µg/mL | 250 µL | Gibco 15140122 (10,000 U/mL + 10,000 µg/mL stock) |
-| Ciprofloxacin | 10 µg/mL | 500 µL | 1 mg/mL stock (see Section 2.1) |
-| Amphotericin B | 2.5 µg/mL | 500 µL | Gibco Fungizone 15290018 (250 µg/mL stock) |
 | L-15 medium | 8% (v/v) | 4.0 mL | Thermo Fisher 11415064 |
 | FBS | 10% (v/v) | 5.0 mL | R&D Systems S11150H |
-| Squid Growth Media A | to volume | ~39.75 mL | See Section 1.4 |
+| Squid Growth Media A | to volume | ~40.75 mL | See Section 1.4 |
 
 Make fresh 50 mL aliquots. Filter 0.20 um. Store 4C, 1-month shelf life.
 
@@ -95,23 +93,19 @@ Make fresh 50 mL aliquots. Filter 0.20 um. Store 4C, 1-month shelf life.
 | Component | Working concentration | Amount (50 mL) | Stock/Source |
 |---|---|---|---|
 | Penicillin/Streptomycin | 50 U/mL + 50 µg/mL | 250 µL | Gibco 15140122 (10,000 U/mL + 10,000 µg/mL stock) |
-| Ciprofloxacin | 10 µg/mL | 500 µL | 1 mg/mL stock (see Section 2.1) |
-| Amphotericin B | 2.5 µg/mL | 500 µL | Gibco Fungizone 15290018 (250 µg/mL stock) |
 | L-15 medium | 8% (v/v) | 4.0 mL | Thermo Fisher 11415064 |
-| Squid Growth Media A | to volume | ~44.75 mL | See Section 1.4 |
+| Squid Growth Media A | to volume | ~45.75 mL | See Section 1.4 |
 
 ### 1.7 Squid Growth Media D (Standard Growth)
 
 | Component | Working concentration | Amount (50 mL) | Stock/Source |
 |---|---|---|---|
 | Penicillin/Streptomycin | 50 U/mL + 50 µg/mL | 250 µL | Gibco 15140122 (10,000 U/mL + 10,000 µg/mL stock) |
-| Ciprofloxacin | 10 µg/mL | 500 µL | 1 mg/mL stock (see Section 2.1) |
-| Amphotericin B | 2.5 µg/mL | 500 µL | Gibco Fungizone 15290018 (250 µg/mL stock) |
 | ITS-G | 1x (10 mg/L insulin, 5.5 mg/L transferrin, 0.0067 mg/L Na selenite) | 500 µL | Thermo Fisher 41400045 (100x liquid stock) |
 | FGF-basic | 10 ng/mL | 50 µL | PeproTech 100-18B (prepare 10 µg/mL working aliquots in PBS + 0.1% BSA; store at -80C) |
 | EGF | 100 ng/mL | 50 µL | PeproTech AF-100-15 (100 µg/mL stock in PBS + 0.1% BSA) |
 | L-15 medium | 8% (v/v) | 4.0 mL | Thermo Fisher 11415064 |
-| Squid Growth Media A | to volume | ~44.15 mL | See Section 1.4 |
+| Squid Growth Media A | to volume | ~45.15 mL | See Section 1.4 |
 
 Make fresh 50 mL aliquots. Filter 0.20 um. Use within 48 hours (growth factor stability).
 
@@ -125,32 +119,21 @@ Make fresh 50 mL aliquots. Filter 0.20 um. Use within 48 hours (growth factor st
 |---|---|---|---|---|
 | Penicillin | 50 U/mL | Gram-positive | Thermo Fisher (Gibco Pen-Strep) | 15140122 |
 | Streptomycin | 50 ug/mL | Gram-negative (limited) | (included in above) | (included) |
-| Ciprofloxacin | 10 ug/mL | Broad gram-negative (Vibrio, Pseudomonas) | Sigma-Aldrich | 17850-5G-F |
-| Amphotericin B | 2.5 ug/mL | Fungi, yeast | Thermo Fisher (Gibco Fungizone) | 15290018 |
 
-**Ciprofloxacin 100x stock**: 1 mg/mL in 0.1N HCl. Filter-sterilize. Store -20C protected from light. Add 1:100 to media.
-
-### 2.2 Enhanced DBSS (Tissue Disinfection)
+### 2.2 Tissue Disinfection Buffer (DBSS)
 
 For the 30-minute tissue disinfection step. Prepare fresh as needed; 50 mL is sufficient for one dissection session.
 
 | Component | Working concentration | Amount (50 mL) | Stock/Source |
 |---|---|---|---|
 | Penicillin/Streptomycin | 100 U/mL + 100 µg/mL (2x standard) | 500 µL | Gibco 15140122 (10,000 U/mL + 10,000 µg/mL stock) |
-| Gentamicin | 50 µg/mL | 250 µL | Thermo Fisher 15710064 (10 mg/mL stock) |
-| Ciprofloxacin | 10 µg/mL | 500 µL | 1 mg/mL stock (see Section 2.1) |
-| Amphotericin B | 2.5 µg/mL | 500 µL | Gibco Fungizone 15290018 (250 µg/mL stock) |
-| MBSS | base | ~48.25 mL (to 50 mL) | See Section 1.1 |
+| MBSS | base | ~49.5 mL (to 50 mL) | See Section 1.1 |
 
 ### 2.3 Pre-Dissociation Wash
 
 Before dissection:
-1. Rinse euthanized animal 3x in sterile FNSW + 100 ug/mL gentamicin.
-2. Final rinse 5 min in FNSW + 100 ug/mL gentamicin + 10 ug/mL ciprofloxacin.
-
-### 2.4 Alternative: Primocin
-
-Primocin (InvivoGen, ant-pm-1) at 100 ug/mL can replace the multi-agent cocktail if it proves non-toxic to squid cells. Must be titrated for cytotoxicity before routine use (see Track 1 troubleshooting).
+1. Rinse euthanized animal 3x in sterile FNSW.
+2. Transfer directly to DBSS (Section 2.2) for 30 minutes before dissection.
 
 ---
 

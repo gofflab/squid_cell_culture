@@ -35,9 +35,8 @@ Anesthetize in 1:1 mixture of 7.5% MgCl2 (Fisher Scientific, M33-500) in deioniz
 ### 1.1.3 Pre-Dissociation Wash
 
 Before dissection, wash the intact euthanized animal:
-1. Rinse 3x in sterile FNSW supplemented with 100 ug/mL gentamicin (Thermo Fisher, 15710064).
-2. Final rinse for 5 minutes in FNSW + 100 ug/mL gentamicin + 10 ug/mL ciprofloxacin (Sigma-Aldrich, 17850-5G-F).
-3. Transfer to sterile sylgard dissection dish.
+1. Rinse 3x in sterile FNSW.
+2. Transfer to sterile sylgard dissection dish.
 
 ### 1.1.4 White Body Dissection
 
@@ -49,7 +48,7 @@ The white body is a 4-lobed structure located between the eyes and optic lobes, 
 3. Identify the optic lobe (posterior to the eye).
 4. The white body is medial to the optic lobe. Using Dumostar-Biology Number 55 forceps (Fine Science Tools, 11295-51), carefully separate the white body from surrounding connective tissue.
 5. **Separate anterior from posterior white body.** The anterior territory (ventral-anterior) contributes to the supraesophageal brain via the anterior migratory stream. The posterior territory contributes to the optic lobe via the posterior stream. These are molecularly distinct and should be cultured separately.
-6. Place each tissue fragment into a separate well of a 24-well glass bottom plate (Cellvis, P24-1.5H-N) containing 500 uL enhanced DBSS (see 06_reagents_and_media.md, Section 2).
+6. Place each tissue fragment into a separate well of a 24-well glass bottom plate (Cellvis, P24-1.5H-N) containing 500 uL DBSS (see 06_reagents_and_media.md, Section 2.2).
 7. Document each dissection with photographs.
 8. Repeat for the contralateral side.
 
@@ -61,7 +60,7 @@ The white body is a 4-lobed structure located between the eyes and optic lobes, 
 
 Follow the Kim et al. (2025) protocol with modifications:
 
-1. Incubate tissue in enhanced DBSS at 22C for 30 minutes with gentle rocking every 5-10 minutes (disinfection step).
+1. Incubate tissue in DBSS at 22C for 30 minutes with gentle rocking every 5-10 minutes (disinfection step).
 2. Transfer tissue to a clean well. Save the DBSS well (cells dissociate during disinfection).
 3. Add 500 uL Trypsin-EDTA Solution A (0.25% trypsin, 0.02% EDTA in MCMFS) to tissue. Incubate at 22C for 15 minutes. Gently triturate 5x with a P1000 pipette at the 7-minute mark.
    - **Note**: White body tissue may require longer digestion than optic lobes. If tissue remains largely intact at 15 minutes, extend to 20 minutes maximum.
@@ -217,7 +216,7 @@ Statistical analysis: Two-way ANOVA (media x region [anterior/posterior]) with b
 |---|---|---|
 | Very low cell yield | Incomplete dissociation; small tissue size in hatchlings | Pool 2-3 animals per plate. Extend trypsin to 20 min. Try collagenase IV or papain. |
 | Rapid cell death (<24h) | Osmotic stress or pH drift | Verify osmolality (target 950 mOsm/kg). Verify pH 7.4 after equilibration at 22C. |
-| Contamination | Marine gram-negative bacteria | Use enhanced DBSS formulation with gentamicin + ciprofloxacin. Consider Primocin 100 ug/mL. |
+| Contamination | Marine gram-negative bacteria | Reinforce sterile technique throughout. Ensure all FNSW and MBSS is freshly filtered. Verify pre-dissociation FNSW rinses are complete. |
 | No F-ara-EdU incorporation | Cells entered quiescence | Test additional conditions: CHIR99021 + Notch ligand + FGF. Test hypoxia (5% O2). Test 3D Matrigel culture. |
 | All cells differentiate rapidly | NSC state not maintained | Add CHIR99021 + Y-27632. Increase FGF concentration. Test SHH pathway agonist (SAG 1 uM). |
 | All cells Nkx2.5+ | Neurogenic compartment lost, only hematopoietic cells survive | Use younger hatchlings (0-2 dph). Dissect more precisely to enrich neurogenic territory. |
