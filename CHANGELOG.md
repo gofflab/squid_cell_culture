@@ -1,6 +1,17 @@
 # Changelog
 
-## v2.0 (Current)
+## v2.1 (Current)
+
+### Protocol-Level Changes
+- Antimicrobial strategy reverted to Kim et al. (2025) standard: Pen/Strep only in all growth media (Media B–D). Ciprofloxacin, amphotericin B, gentamicin, and Primocin removed pending cytotoxicity and efficacy evaluation.
+- Media B, C, D volumes corrected to reflect removal: Media A fraction now 81.5%, 91.5%, and ~90% respectively (matching Kim et al. original percentages).
+- DBSS (tissue disinfection buffer) simplified to MBSS + 2x Pen/Strep; all additional agents removed.
+- Pre-dissociation wash simplified to sterile FNSW rinses only.
+- Track 1 troubleshooting updated to remove antibiotic-specific contamination guidance.
+
+---
+
+## v2.0
 
 ### Major Changes
 - Revised entire program in light of Stock, Hally et al. findings on white body as dual neurogenic-hematopoietic organ.
