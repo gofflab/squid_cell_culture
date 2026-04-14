@@ -6,11 +6,13 @@
 
 ## Aims
 
-**Aim 1.1**: Establish reliable isolation of white body cells from E. berryi hatchlings with defined cell identity.
+**Aim 1.1**: Establish reliable isolation of white body cells from E. berryi hatchlings with defined cell identity. Two methods are developed in parallel: enzymatic dissociation (Section 1.1.5) and tissue explant migration (Section 1.1.6).
 
 **Aim 1.2**: Optimize culture conditions that maintain cell viability, molecular identity, and proliferative capacity.
 
 **Aim 1.3**: Develop passage and cryopreservation protocols.
+
+**Aim 1.4**: Compare explant migration cultures to dissociation cultures to determine whether each approach yields cells with distinct identity, proliferative behavior, and culture performance.
 
 ---
 
@@ -72,7 +74,87 @@ Follow the Kim et al. (2025) protocol with modifications:
 8. Culture at 22C, ambient CO2. L-15-based media does not require CO2 supplementation.
 9. Check for cell attachment at 2, 6, 12, and 24 hours.
 
-### 1.1.6 Cell Counting and Viability
+### 1.1.6 Tissue Explant Migration Assay (Alternative Isolation Method)
+
+#### Rationale
+
+Freshly dissected white body tissue placed on coated glass produces a halo of actively exfiltrating, migrating cells within 6–24 hours. This behavior is consistent with the in vivo migratory biology of white body neuroblasts, which travel along defined anterior and posterior migratory streams to populate the brain (Stock, Hally et al.). Cells that self-select to leave the explant may represent a biologically distinct, actively motile subpopulation — possibly enriched for committed neuroblasts or migratory NSCs — compared to the mixed population recovered by bulk dissociation.
+
+This approach:
+- Avoids enzymatic dissociation stress and the loss of surface receptors that accompanies trypsinization
+- Selects cells based on intrinsic migratory capacity, potentially enriching biologically relevant populations
+- Preserves local cell–cell contacts and paracrine signaling during the initial culture period
+- Can be run in parallel with dissociation from the same animal (contralateral lobe)
+
+Use this method instead of or alongside Section 1.1.5. The comparison between approaches is formalized in Aim 1.4.
+
+#### Setup
+
+1. After the DBSS incubation step (Section 1.1.5, steps 1–2), transfer the intact tissue fragment (do not dissociate) to a substrate-coated 24-well glass bottom plate (Cellvis, P24-1.5H-N).
+2. Allow fragment to settle and contact the substrate for 30 minutes at 22°C without adding media. For hatchling tissue, gentle pressure with forceps blunt-end may improve initial contact; do not crush.
+3. Carefully add 500 µL Media D by pipetting against the well wall, not directly onto the tissue.
+4. Image immediately (T = 0 h) by phase contrast at 4x and 10x: document fragment position, size, and any cells already present at the fragment edge.
+5. Culture at 22°C, ambient CO2. Do not disturb for at least 6 hours.
+
+#### Substrate Optimization
+
+Test each substrate in parallel (minimum 3 animals, one substrate per well):
+
+| Substrate | Preparation | Rationale |
+|---|---|---|
+| Uncoated glass | None | Baseline |
+| Poly-D-lysine (PDL) | 100 µg/mL in dH2O, overnight at 4°C, wash 3x dH2O | Adhesion support; used in Kim et al. for optic lobe cells |
+| Laminin | 5 µg/mL in MBSS, 2 hours at 22°C, aspirate excess | Neuroblast migration substrate; matches in vivo ECM |
+| PDL + laminin | PDL overnight → wash → laminin 2 hours | Combined adhesion + migration support |
+| Fibronectin | 10 µg/mL in MBSS, 2 hours at 22°C | Hemocyte-relevant ECM; may reveal hematopoietic subpopulation |
+
+Prioritize laminin and PDL + laminin based on the in vivo migration biology.
+
+#### Monitoring the Migration Halo
+
+Image each well at the following timepoints: **0, 2, 4, 6, 12, 24, 48, 72 hours**. Use phase contrast at 4x (full halo) and 10x (leading edge morphology).
+
+At each timepoint, measure and record:
+- **Halo radius**: mean of 8 radial measurements from the explant edge (ImageJ: straight-line tool), reported as µm.
+- **Leading-edge morphology**: score 20 cells at the outermost migratory front as: (a) round/amoeboid — hemocyte-like; (b) bipolar elongated — neuroblast-like; (c) multipolar/branched — NSC-like.
+- **Proximal zone morphology**: score 20 cells within 100 µm of the explant edge.
+
+If time-lapse imaging is available, acquire one frame every 15–30 minutes from T = 0–24 h at 10x for individual cell tracking (TrackMate, FIJI).
+
+#### Explant Removal
+
+The explant is removed once a sufficient migratory halo is established, leaving behind a pure culture of self-emigrated cells.
+
+**Timepoints for removal (test as independent conditions):**
+
+| Removal time | Rationale |
+|---|---|
+| 24 hours | Captures first-wave migrants; smaller cell number but likely most migratory population |
+| 72 hours | Larger total yield; multiple migration waves; some cells may have re-attached and spread |
+
+**Procedure:**
+1. Aspirate media carefully. Gently lift the tissue fragment with Dumostar forceps (#55). If adherent, slide one tine beneath the fragment and lift at a low angle to avoid dragging cells.
+2. Wash 2x with 500 µL Media C (pipette slowly along the well wall). This removes cells mechanically displaced during fragment removal, and any remaining debris.
+3. Add experimental growth media (Media D). This is **T = 0** for all downstream culture and analysis.
+4. Fix one well immediately after removal (T = 0) in 4% PFA/MBSS as a baseline snapshot.
+
+#### Expected Yield and Behavior
+
+From a single hatchling WB fragment, initial estimates project the migratory halo contains fewer cells than full dissociation (roughly 10–30% of dissociation yield at 24 hours), but with greater morphological uniformity. The halo area should expand continuously while the explant is in place. If no halo is visible by 6 hours, check substrate coating, media osmolality, and fragment viability (lightly touch with forceps tip — an intact live fragment will have natural buoyancy and slight resistance).
+
+#### Troubleshooting (Explant-Specific)
+
+| Problem | Likely cause | Solution |
+|---|---|---|
+| No cell migration at 6–12 hours | Poor substrate adhesion; dead tissue | Verify substrate coating; ensure fragment contacts substrate; check osmolality |
+| Cells migrate then detach | Substrate not supporting long-term adhesion | Switch to PDL + laminin; add Y-27632 10 µM to media |
+| Cells present but non-motile, spread flat | Cells attached but not migrating (hemocytes?) | Proceed; compare to dissociation by HCR and RT-qPCR for identity |
+| Tissue dissolves before removal | Over-incubation in DBSS or media incompatibility | Reduce DBSS incubation to 15 min; verify media pH and osmolality |
+| Contamination after removal | Fragment harbors bacteria | Extend DBSS incubation to 45 min; ensure sterile technique during removal |
+
+---
+
+### 1.1.7 Cell Counting and Viability
 
 - Mix 10 uL cell suspension with 10 uL trypan blue (0.4%).
 - Count on hemocytometer or automated cell counter.
@@ -221,3 +303,96 @@ Statistical analysis: Two-way ANOVA (media x region [anterior/posterior]) with b
 | All cells differentiate rapidly | NSC state not maintained | Add CHIR99021 + Y-27632. Increase FGF concentration. Test SHH pathway agonist (SAG 1 uM). |
 | All cells Nkx2.5+ | Neurogenic compartment lost, only hematopoietic cells survive | Use younger hatchlings (0-2 dph). Dissect more precisely to enrich neurogenic territory. |
 | Poor attachment | Wrong substrate | Test PDL, laminin, Matrigel. Add Y-27632 10 uM (anti-anoikis). |
+
+---
+
+## Aim 1.4: Dissociation vs. Explant Culture Comparison
+
+### Rationale
+
+The tissue explant migration assay (Section 1.1.6) and the enzymatic dissociation protocol (Section 1.1.5) likely recover different cell populations from the white body. Dissociation yields a bulk suspension of all cell types present; explant migration selects for cells with intrinsic motility and the ability to adhere and migrate on an artificial substrate. Whether migrated cells are enriched for a particular identity class (NSCs, committed neuroblasts, hemocytes) or are representative of the white body as a whole is unknown and has direct implications for which method to use in Tracks 2–5.
+
+### Experimental Design
+
+**Paired samples from the same animal** to eliminate animal-to-animal variation:
+- For each dissected white body lobe, cut the tissue into two roughly equal halves immediately after DBSS incubation.
+  - **Half A**: Proceed with enzymatic dissociation (Section 1.1.5).
+  - **Half B**: Proceed with explant migration on laminin-coated glass (Section 1.1.6), explant removed at 24 hours.
+- Culture both halves in identical media (Media D, best condition from Aim 1.2) on identical substrates (PDL + laminin).
+- Analyze at Day 1, Day 3, and Day 7 post-plating/post-explant-removal.
+- Minimum **N = 5 animals** (bilateral; anterior and posterior analyzed separately where cell numbers permit).
+
+### Readouts
+
+#### 1. Molecular Identity (RT-qPCR)
+
+Harvest RNA from one replicate well at Day 1, Day 3, and Day 7. Assess the following markers:
+
+| Marker class | Genes |
+|---|---|
+| NSC / proliferating progenitor | Sox2, Ascl1 (EB45560), Pcna, Mcm6 |
+| Committed neuroblast | Ngn (EB09075), Lhx1, Nkx2.2 |
+| Postmitotic neuron | Elav (EB33473), Vacht, Ty3h |
+| Hematopoietic | Nkx2.5 |
+| Housekeeping | EF1alpha homolog, beta-actin homolog |
+
+Compute:
+- **NSC index** = geometric mean(Sox2, Ascl1, Pcna) / geometric mean(Elav, Nkx2.5)
+- **Neuroblast index** = geometric mean(Ngn, Lhx1) / Pcna
+- **Hematopoietic index** = Nkx2.5 / geometric mean(Sox2, Elav)
+
+For each index, a value > 1 indicates enrichment for that identity class relative to the other two.
+
+#### 2. Proliferative Capacity (F-ara-EdU)
+
+- 1 µM F-ara-EdU, 4-hour pulse at Day 1 and Day 7 (Track 5 protocol).
+- Fix and process by click chemistry. Counterstain with Hoechst 33342.
+- Quantify: % EdU+ nuclei from 5 fields at 20x per well.
+- **Hypothesis**: if migrated cells are enriched for postmitotic neuroblasts, the explant culture will show lower EdU incorporation than the dissociation culture.
+
+#### 3. Spatial Cell Identity (HCR In Situ Hybridization)
+
+At Day 3, fix one replicate from each condition. Perform HCR multiplex for:
+- **Sox2** (NSC marker)
+- **Elav** (neuronal marker)
+- **Pcna** (proliferating cells)
+
+Score 200 cells per well as: Sox2+/Pcna+ (cycling NSC), Sox2+/Pcna- (quiescent NSC), Elav+/Pcna- (neuron), Sox2-/Elav-/Pcna- (hematopoietic or unknown). Compare proportions between dissociation and explant cultures.
+
+#### 4. Morphological Profiling
+
+At Day 1 and Day 3, score 100 cells per well at 20x phase contrast:
+- Round, non-adherent
+- Compact/adherent, no processes
+- Bipolar, one or two processes (neuroblast-like)
+- Multipolar, >2 processes (NSC-like)
+- Spread, flat, large area (hemocyte/fibroblast-like)
+
+For explant cultures, score the leading-edge zone (>200 µm from original explant position) separately from the proximal zone (<200 µm).
+
+#### 5. Migration Behavior Analysis (Explant Only)
+
+During the pre-removal period (0–24 hours), characterize the migration dynamics:
+
+- **Halo expansion rate**: plot halo radius vs. time; fit linear regression to estimate mean migration speed (µm/hour).
+- **Leading-edge cell density**: cells/mm at the outermost front at 6, 12, and 24 hours.
+- **If time-lapse available**: track ≥30 individual cells per well using TrackMate (FIJI). Report mean velocity, mean squared displacement, directionality ratio (net displacement / total path length; values near 1 = directed; near 0 = random walk).
+
+### Analysis and Decision Framework
+
+Compare NSC index, Neuroblast index, and % EdU+ between conditions using paired t-tests (dissociation vs. explant, within animal). Apply Bonferroni correction across timepoints.
+
+| Outcome | Interpretation | Implications for downstream tracks |
+|---|---|---|
+| Explant enriched for Elav+/Pcna- (neuroblasts) | Explant selects postmitotic committed cells | Use dissociation for Tracks 2/3A (NSC expansion); use explant for Track 3B (differentiation studies) |
+| Explant enriched for Sox2+/Pcna+ (cycling NSCs) | Migratory cells are proliferating progenitors | Prefer explant for all tracks requiring proliferative cells |
+| Explant enriched for Nkx2.5+ (hemocytes) | Migration dominated by amoeboid hemocytes | Explant not useful for neurogenic work; use dissociation with depletion strategy |
+| No significant difference | Migrated cells are broadly representative | Either approach acceptable; choose based on yield and practical considerations |
+| Dissociation superior for all metrics | Enzymatic recovery is more complete | Continue with dissociation as primary method; revisit explant if substrate is further optimized |
+
+### Success Criteria
+
+- A statistically significant difference (p < 0.05) in at least one identity index between the two approaches in ≥3 of 5 animals.
+- OR: a reproducible morphological difference visible by phase contrast at Day 1 (e.g., >2-fold difference in % bipolar cells).
+
+If no difference is found across all metrics, this is a valid result: it indicates that migrated cells are not a biologically distinct subpopulation, and the choice of isolation method can be made purely on practical grounds (yield, ease, reproducibility).
