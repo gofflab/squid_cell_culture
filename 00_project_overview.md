@@ -138,26 +138,26 @@ RT-qPCR primer sets should be designed against the E. berryi reference transcrip
 
 ## Resource Requirements
 
-### Personnel
+### Personnel Expertise
 - Cell culturist with marine organism experience (1.0 FTE)
 - Molecular biologist for cloning, vector construction, qPCR (0.5 FTE)
 - Technician or graduate student for routine culture and imaging (0.5 FTE)
 
 ### Equipment
-- Cell culture facility with 22C incubator (ambient CO2, L-15-based media)
-- Vapor pressure osmometer (Knauer K-7000 or equivalent)
+- Cell culture facility with 22ºC incubator (ambient CO2, L-15-based media)
+- Vapor pressure osmometer (Knauer K-7000 or equivalent) [optional]
 - Stereomicroscope with camera for dissection
 - Inverted fluorescence microscope with DIC, phase contrast, and live imaging capability
-- Confocal microscope (for HCR imaging)
-- Flow cytometer with UV, violet, blue, and red lasers
-- Lonza 4D-Nucleofector (for Track 4)
-- Patch-clamp electrophysiology rig (for Track 3B functional characterization)
-- qPCR instrument
-- Controlled-rate freezer (for cryopreservation)
+- Confocal microscope (for HCR imaging) (Neuro imaging core)
+- Flow cytometer with UV, violet, blue, and red lasers (FACS Aria in lab)
+- Lonza 4D-Nucleofector (for Track 4) [optional if lipofection or other methods do not work]
+- Patch-clamp electrophysiology rig (for Track 3B functional characterization) [this will have to be done in collaboration with Neill lab or others in Neuro dept]
+- qPCR instrument [lightcycler @ MRB? or ABI system somewhere]
+- Controlled-rate freezer (for cryopreservation) [or Mr. Frosty system]
 
 ### Animals
-- ~200 E. berryi hatchlings and juveniles across developmental stages
-- Active breeding colony required
+- ~200 E. berryi hatchlings and juveniles across developmental stages for all tracks
+- Active breeding colony required [looking to Kavli for support]
 - All animal work per institutional IACUC protocols
 
 ### Estimated Annual Reagent Budget
@@ -166,6 +166,6 @@ RT-qPCR primer sets should be designed against the E. berryi reference transcrip
 - Molecular biology (qPCR, cloning, mRNA synthesis): $12,000
 - F-ara-EdU and click chemistry reagents: $3,000
 - HCR probes and reagents: $5,000
-- Nucleofection supplies: $5,000
-- Sequencing (scRNA-seq, if performed): $30,000-45,000
+- Nucleofection supplies: $5,000 [optional]
+- Sequencing (scRNA-seq, if performed): $30,000-45,000 [not currently budgeted for or available]
 - Total: ~$80,000-95,000/year
