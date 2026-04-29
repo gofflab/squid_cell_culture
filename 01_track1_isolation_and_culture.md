@@ -90,11 +90,11 @@ Use this method instead of or alongside Section 1.1.5. The comparison between ap
 
 #### Setup
 
-1. After the DBSS incubation step (Section 1.1.5, steps 1–2), transfer the intact tissue fragment (do not dissociate) to a substrate-coated 24-well glass bottom plate (Cellvis, P24-1.5H-N).
-2. Allow fragment to settle and contact the substrate for 30 minutes at 22°C without adding media. For hatchling tissue, gentle pressure with forceps blunt-end may improve initial contact; do not crush.
-3. Carefully add 500 µL Media D by pipetting against the well wall, not directly onto the tissue.
+1. After the DBSS incubation step (Section 1.1.5, step 1), transfer the intact tissue fragment (do not dissociate) to a substrate-coated 24-well glass bottom plate (Cellvis, P24-1.5H-N).
+2. Allow fragment to settle and contact the substrate for 30 minutes at 22C without adding media. For hatchling tissue, gentle pressure with forceps blunt-end may improve initial contact; do not crush.
+3. Carefully add 500 uL Media D by pipetting against the well wall, not directly onto the tissue.
 4. Image immediately (T = 0 h) by phase contrast at 4x and 10x: document fragment position, size, and any cells already present at the fragment edge.
-5. Culture at 22°C, ambient CO2. Do not disturb for at least 6 hours.
+5. Culture at 22C, ambient CO2. Do not disturb for at least 6 hours.
 
 #### Substrate Optimization
 
@@ -103,10 +103,10 @@ Test each substrate in parallel (minimum 3 animals, one substrate per well):
 | Substrate | Preparation | Rationale |
 |---|---|---|
 | Uncoated glass | None | Baseline |
-| Poly-D-lysine (PDL) | 100 µg/mL in dH2O, overnight at 4°C, wash 3x dH2O | Adhesion support; used in Kim et al. for optic lobe cells |
-| Laminin | 5 µg/mL in MBSS, 2 hours at 22°C, aspirate excess | Neuroblast migration substrate; matches in vivo ECM |
+| Poly-D-lysine (PDL) | 100 ug/mL in dH2O, overnight at 4C, wash 3x dH2O | Adhesion support; used in Kim et al. for optic lobe cells |
+| Laminin | 5 ug/mL in MBSS, 2 hours at 22C, aspirate excess | Neuroblast migration substrate; matches in vivo ECM |
 | PDL + laminin | PDL overnight → wash → laminin 2 hours | Combined adhesion + migration support |
-| Fibronectin | 10 µg/mL in MBSS, 2 hours at 22°C | Hemocyte-relevant ECM; may reveal hematopoietic subpopulation |
+| Fibronectin | 10 ug/mL in MBSS, 2 hours at 22C | Hemocyte-relevant ECM; may reveal hematopoietic subpopulation |
 
 Prioritize laminin and PDL + laminin based on the in vivo migration biology.
 
@@ -115,9 +115,9 @@ Prioritize laminin and PDL + laminin based on the in vivo migration biology.
 Image each well at the following timepoints: **0, 2, 4, 6, 12, 24, 48, 72 hours**. Use phase contrast at 4x (full halo) and 10x (leading edge morphology).
 
 At each timepoint, measure and record:
-- **Halo radius**: mean of 8 radial measurements from the explant edge (ImageJ: straight-line tool), reported as µm.
+- **Halo radius**: mean of 8 radial measurements from the explant edge (ImageJ: straight-line tool), reported as um.
 - **Leading-edge morphology**: score 20 cells at the outermost migratory front as: (a) round/amoeboid — hemocyte-like; (b) bipolar elongated — neuroblast-like; (c) multipolar/branched — NSC-like.
-- **Proximal zone morphology**: score 20 cells within 100 µm of the explant edge.
+- **Proximal zone morphology**: score 20 cells within 100 um of the explant edge.
 
 If time-lapse imaging is available, acquire one frame every 15–30 minutes from T = 0–24 h at 10x for individual cell tracking (TrackMate, FIJI).
 
@@ -134,7 +134,7 @@ The explant is removed once a sufficient migratory halo is established, leaving 
 
 **Procedure:**
 1. Aspirate media carefully. Gently lift the tissue fragment with Dumostar forceps (#55). If adherent, slide one tine beneath the fragment and lift at a low angle to avoid dragging cells.
-2. Wash 2x with 500 µL Media C (pipette slowly along the well wall). This removes cells mechanically displaced during fragment removal, and any remaining debris.
+2. Wash 2x with 500 uL Media C (pipette slowly along the well wall). This removes cells mechanically displaced during fragment removal, and any remaining debris.
 3. Add experimental growth media (Media D). This is **T = 0** for all downstream culture and analysis.
 4. Fix one well immediately after removal (T = 0) in 4% PFA/MBSS as a baseline snapshot.
 
@@ -147,7 +147,7 @@ From a single hatchling WB fragment, initial estimates project the migratory hal
 | Problem | Likely cause | Solution |
 |---|---|---|
 | No cell migration at 6–12 hours | Poor substrate adhesion; dead tissue | Verify substrate coating; ensure fragment contacts substrate; check osmolality |
-| Cells migrate then detach | Substrate not supporting long-term adhesion | Switch to PDL + laminin; add Y-27632 10 µM to media |
+| Cells migrate then detach | Substrate not supporting long-term adhesion | Switch to PDL + laminin; add Y-27632 10 uM to media |
 | Cells present but non-motile, spread flat | Cells attached but not migrating (hemocytes?) | Proceed; compare to dissociation by HCR and RT-qPCR for identity |
 | Tissue dissolves before removal | Over-incubation in DBSS or media incompatibility | Reduce DBSS incubation to 15 min; verify media pH and osmolality |
 | Contamination after removal | Fragment harbors bacteria | Extend DBSS incubation to 45 min; ensure sterile technique during removal |
@@ -317,16 +317,25 @@ The tissue explant migration assay (Section 1.1.6) and the enzymatic dissociatio
 **Paired samples from the same animal** to eliminate animal-to-animal variation:
 - For each dissected white body lobe, cut the tissue into two roughly equal halves immediately after DBSS incubation.
   - **Half A**: Proceed with enzymatic dissociation (Section 1.1.5).
-  - **Half B**: Proceed with explant migration on laminin-coated glass (Section 1.1.6), explant removed at 24 hours.
+  - **Half B**: Proceed with explant migration on PDL + laminin-coated glass (Section 1.1.6), explant removed at 24 hours.
 - Culture both halves in identical media (Media D, best condition from Aim 1.2) on identical substrates (PDL + laminin).
-- Analyze at Day 1, Day 3, and Day 7 post-plating/post-explant-removal.
+- For cross-method comparisons, define **T = 0 at dissection** and match all samples by **time since dissection** — not by time since isolation — to avoid confounding isolation-method effects with differences in maturation time. Because the explant is removed at 24 hours post-dissection, explant culture T = 0 (for downstream assays) corresponds to dissection Day 1.
+- Collect samples at **Day 1, Day 3, and Day 7 since dissection**:
+
+| Timepoint (since dissection) | Dissociation culture | Explant culture |
+|---|---|---|
+| Day 1 (24 h) | 24 h post-plating | Explant just removed; T = 0 for explant assays |
+| Day 3 (72 h) | 72 h post-plating | 48 h post-explant-removal |
+| Day 7 (168 h) | Day 7 post-plating | Day 6 post-explant-removal |
+
+Record both **time since dissection** and **time since plating/explant-removal** for every sample.
 - Minimum **N = 5 animals** (bilateral; anterior and posterior analyzed separately where cell numbers permit).
 
 ### Readouts
 
 #### 1. Molecular Identity (RT-qPCR)
 
-Harvest RNA from one replicate well at Day 1, Day 3, and Day 7. Assess the following markers:
+Harvest RNA from one replicate well at Day 1, Day 3, and Day 7 since dissection (matched timepoints; see table above). Assess the following markers:
 
 | Marker class | Genes |
 |---|---|
@@ -345,7 +354,7 @@ For each index, a value > 1 indicates enrichment for that identity class relativ
 
 #### 2. Proliferative Capacity (F-ara-EdU)
 
-- 1 µM F-ara-EdU, 4-hour pulse at Day 1 and Day 7 (Track 5 protocol).
+- 1 uM F-ara-EdU, 4-hour pulse at Day 1 and Day 7 (Track 5 protocol).
 - Fix and process by click chemistry. Counterstain with Hoechst 33342.
 - Quantify: % EdU+ nuclei from 5 fields at 20x per well.
 - **Hypothesis**: if migrated cells are enriched for postmitotic neuroblasts, the explant culture will show lower EdU incorporation than the dissociation culture.
@@ -368,14 +377,14 @@ At Day 1 and Day 3, score 100 cells per well at 20x phase contrast:
 - Multipolar, >2 processes (NSC-like)
 - Spread, flat, large area (hemocyte/fibroblast-like)
 
-For explant cultures, score the leading-edge zone (>200 µm from original explant position) separately from the proximal zone (<200 µm).
+For explant cultures, score the leading-edge zone (>200 um from original explant position) separately from the proximal zone (<200 um).
 
 #### 5. Migration Behavior Analysis (Explant Only)
 
 During the pre-removal period (0–24 hours), characterize the migration dynamics:
 
-- **Halo expansion rate**: plot halo radius vs. time; fit linear regression to estimate mean migration speed (µm/hour).
-- **Leading-edge cell density**: cells/mm at the outermost front at 6, 12, and 24 hours.
+- **Halo expansion rate**: plot halo radius vs. time; fit linear regression to estimate mean migration speed (um/hour).
+- **Leading-edge cell density**: linear density along the outermost continuous migration front, reported as cells/mm of front length. At 6, 12, and 24 hours, draw a line tool (ImageJ) along 1 mm of the outermost front (or the full front length if shorter) and count cells whose soma centers lie on or within 10 um of that line.
 - **If time-lapse available**: track ≥30 individual cells per well using TrackMate (FIJI). Report mean velocity, mean squared displacement, directionality ratio (net displacement / total path length; values near 1 = directed; near 0 = random walk).
 
 ### Analysis and Decision Framework
