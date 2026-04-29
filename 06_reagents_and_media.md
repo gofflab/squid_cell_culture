@@ -64,18 +64,18 @@ Make fresh 50 mL aliquots. Filter 0.20 um. Store 4C, 1-month shelf life. Warm to
 
 ### 1.4 Squid Growth Media A (Stock)
 
-| Reagent | FW (g/mol) | Final Conc. (mM) | Amount (1 L) | Supplier | Catalog # |
+| Reagent | FW (g/mol) | Final Conc. (mM) | Amount (500 mL) | Supplier | Catalog # |
 |---|---|---|---|---|---|
-| NaCl | 58.44 | 336.6 | 19.67 g | Fisher Scientific | S671-500 |
-| KCl | 74.55 | 10.87 | 10.87 mL of 1 M stock | Sigma-Aldrich | P9541-1KG |
-| MgCl2·6H2O | 203.30 | 17.36 | 3.53 g | Sigma-Aldrich | M2670-500G |
-| MgSO4·7H2O | 246.47 | 19.84 | 4.89 g | Sigma-Aldrich | M2773-500G |
-| NaHCO3 | 84.01 | 2.74 | 2.74 mL of 1 M stock | Sigma-Aldrich | S5761-1KG |
-| NaH2PO4 (anhydrous) | 119.98 | 0.282 | 2.82 mL of 100 mM stock | Sigma-Aldrich | S0751 |
-| CaCl2 (anhydrous) | 110.98 | 7.55 | 7.55 mL of 1 M stock | Sigma-Aldrich | C1016 |
-| D-(+)-Glucose | 180.16 | 1.28 | 1.28 mL of 1 M stock | MilliporeSigma | G7021-100G |
+| NaCl | 58.44 | 336.6 | 9.84 g | Fisher Scientific | S671-500 |
+| KCl | 74.55 | 10.87 | 5.44 mL of 1 M stock | Sigma-Aldrich | P9541-1KG |
+| MgCl2·6H2O | 203.30 | 17.36 | 1.77 g | Sigma-Aldrich | M2670-500G |
+| MgSO4·7H2O | 246.47 | 19.84 | 2.45 g | Sigma-Aldrich | M2773-500G |
+| NaHCO3 | 84.01 | 2.74 | 1.37 mL of 1 M stock | Sigma-Aldrich | S5761-1KG |
+| NaH2PO4 (anhydrous) | 119.98 | 0.282 | 1.41 mL of 100 mM stock | Sigma-Aldrich | S0751 |
+| CaCl2 (anhydrous) | 110.98 | 7.55 | 3.78 mL of 1 M stock | Sigma-Aldrich | C1016 |
+| D-(+)-Glucose | 180.16 | 1.28 | 0.64 mL of 1 M stock | MilliporeSigma | G7021-100G |
 
-Dissolve in 1L Leibovitz's L-15 medium (Thermo Fisher, 11415064). No antibiotics, no serum. Store 4C, 1-month shelf life.
+Dissolve in 500 mL Leibovitz's L-15 medium (Thermo Fisher, 11415064). No antibiotics, no serum. Store 4C, 1-month shelf life.
 
 ### 1.5 Squid Growth Media B (Trypsin Neutralization)
 
