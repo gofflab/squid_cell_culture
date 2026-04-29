@@ -24,6 +24,53 @@ Several components appear at sub-100 mg quantities per 1 L batch, making accurat
 
 **NaHCO3 note**: Autoclaving drives off CO2 and converts bicarbonate to carbonate, making the solution strongly alkaline. Make fresh monthly. Discard if precipitate forms or pH exceeds 8.5.
 
+### 1.0.1 Growth Factor and Protein Stocks
+
+Growth factors are supplied as lyophilized powder and must be reconstituted in carrier protein solution to prevent adsorption to plastic surfaces. Prepare carrier solution first, then reconstitute each factor immediately before aliquoting.
+
+**Carrier protein solution (0.1% BSA in PBS):**
+
+| Component | Amount (10 mL) | Supplier | Catalog # |
+|---|---|---|---|
+| BSA, cell culture grade | 10 mg | Sigma-Aldrich | A9418-10G |
+| PBS (pH 7.4, sterile) | to 10 mL | Thermo Fisher | 10010023 |
+
+Dissolve BSA in ~9 mL sterile PBS. Bring to 10 mL. Filter through 0.20 um into a sterile tube. Aliquot 1 mL per tube. Store at -20C up to 6 months, or at 4C up to 1 month. Use one aliquot per reconstitution event.
+
+---
+
+**FGF-basic — 10 ug/mL stock (1000x for Media D)**
+
+| Vial size | Carrier protein solution to add | Resulting stock |
+|---|---|---|
+| 10 ug (PeproTech 100-18B) | 1.0 mL | 10 ug/mL |
+| 100 ug (PeproTech 100-18B) | 10.0 mL | 10 ug/mL |
+
+**Reconstitution:**
+1. Allow lyophilized vial to equilibrate to room temperature (15 min, sealed).
+2. Add the indicated volume of carrier protein solution to the vial. Do not vortex; swirl gently or pipette slowly up and down 5x.
+3. Let stand 5 minutes at RT to ensure complete dissolution.
+4. Aliquot 50 uL per labeled 0.5 mL tube (single-use). Store at -80C.
+
+**Working dilution**: 50 uL stock per 50 mL Media D → 10 ng/mL final.
+
+**Storage and stability**: 12 months at -80C. After thawing, use within 1 week at 4C. Do not re-freeze. Keep on ice during use.
+
+---
+
+**EGF — 100 ug/mL stock (1000x for Media D)**
+
+| Vial size | Carrier protein solution to add | Resulting stock |
+|---|---|---|
+| 100 ug (PeproTech AF-100-15) | 1.0 mL | 100 ug/mL |
+| 1 mg (PeproTech AF-100-15) | 10.0 mL | 100 ug/mL |
+
+**Reconstitution:** Same procedure as FGF-basic above. Aliquot 50 uL per tube. Store at -80C.
+
+**Working dilution**: 50 uL stock per 50 mL Media D → 100 ng/mL final.
+
+**Storage and stability**: 12 months at -80C. After thawing, use within 1 week at 4C. Do not re-freeze.
+
 ---
 
 ### 1.1 Molluscan Balanced Salt Solution (MBSS)
@@ -102,8 +149,8 @@ Make fresh 50 mL aliquots. Filter 0.20 um. Store 4C, 1-month shelf life.
 |---|---|---|---|
 | Penicillin/Streptomycin | 50 U/mL + 50 µg/mL | 250 µL | Gibco 15140122 (10,000 U/mL + 10,000 µg/mL stock) |
 | ITS-G | 1x (10 mg/L insulin, 5.5 mg/L transferrin, 0.0067 mg/L Na selenite) | 500 µL | Thermo Fisher 41400045 (100x liquid stock) |
-| FGF-basic | 10 ng/mL | 50 µL | PeproTech 100-18B (prepare 10 µg/mL working aliquots in PBS + 0.1% BSA; store at -80C) |
-| EGF | 100 ng/mL | 50 µL | PeproTech AF-100-15 (100 µg/mL stock in PBS + 0.1% BSA) |
+| FGF-basic | 10 ng/mL | 50 µL | PeproTech 100-18B (10 µg/mL stock — see Section 1.0.1) |
+| EGF | 100 ng/mL | 50 µL | PeproTech AF-100-15 (100 µg/mL stock — see Section 1.0.1) |
 | L-15 medium | 8% (v/v) | 4.0 mL | Thermo Fisher 11415064 |
 | Squid Growth Media A | to volume | ~45.15 mL | See Section 1.4 |
 
